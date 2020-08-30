@@ -15,7 +15,7 @@ using Newtonsoft.Json.Linq;
 namespace covid
 {
     
-    //se llaman a todos lo que se va a usar, creo q es un poquito obvio xd
+    //se llaman a todos lo que se va a usar, creo q es un poquito obvio xdds
     public partial class Covid : Form
     {
 
